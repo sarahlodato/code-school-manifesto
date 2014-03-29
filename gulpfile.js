@@ -65,8 +65,8 @@ gulp.task('watch', function() {
 });
 
 gulp.task('deploy', function() {
-  gulp.src("./dist/**/*")
-    .pipe(deploy('', 'origin'));
+  gulp.src("dist/**/*")
+    .pipe(deploy('git@github.com:masondesu/code-school-manifesto.git', 'origin'));
 });
 
 // Default Task
