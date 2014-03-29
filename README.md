@@ -62,6 +62,7 @@ When adding signatures, please use the following patterns:
 ### [The Iron Yard](http://theironyard.com)
 
 * *[Mason Stewart](http://twitter.com/masondesu)*, Greenville, SC - Monday, March 17th, 2014
+* *[Jo Albright](http://twitter.com/joalbright)*, Atlanta, GA - Saturday, March 29th, 2014
 
 
 <!-- If you are the first person to sign this as an individual not associated with a company, please delete this line and uncomment the next line. See signature format details in the previous comment. -->
