@@ -68,6 +68,7 @@ When adding signatures, please use the following patterns:
 * *[Calvin Webster](http://twitter.com/calweb)*, Charleston, SC - Sunday, March 30th, 2014
 * *[Nick Bucciarelli](http://twitter.com/n_bucciarelli)*, Charleston, SC - Sunday, March 30th, 2014
 * *[Shelby Switzer](http://twitter.com/switzerly)*, Atlanta, GA - Saturday, March 29th, 2014
+* *[Sarah Lodato](http://twitter.com/sarahbethlodato)*, Atlanta, GA - Sunday, March 30th, 2014
 
 <!-- If you are the first person to sign this as an individual not associated with a company, please delete this line and uncomment the next line. See signature format details in the previous comment. -->
 <!-- ### Individual Signatures -->
