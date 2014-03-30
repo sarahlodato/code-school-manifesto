@@ -64,6 +64,7 @@ When adding signatures, please use the following patterns:
 * *[Mason Stewart](http://twitter.com/masondesu)*, Greenville, SC - Monday, March 17th, 2014
 * *[Jo Albright](http://twitter.com/joalbright)*, Atlanta, GA - Saturday, March 29th, 2014
 * *[Roy Schmidt](http://twitter.com/cleasto)*, Greenville, SC - Saturday, March 29th, 2014
+* *[Sally Kingston](http://twitter.com/houserulessally)*, Charleston, SC - Sunday, March 30th, 2014
 
 <!-- If you are the first person to sign this as an individual not associated with a company, please delete this line and uncomment the next line. See signature format details in the previous comment. -->
 <!-- ### Individual Signatures -->
